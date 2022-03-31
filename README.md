@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Adamos71
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Adamos71/Adamos71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm interested in new technology and science, mechanical engineering and construction engineering.
+I'm currently learning how to use Python to write a codes.
+I'm not looking for any colaborations but i would like to get some help in learn how to write good code in Python or other codding language.
